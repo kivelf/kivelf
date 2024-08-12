@@ -1,12 +1,12 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Heya%20there,%20I'm%20Remy!%20👋&width=800&height=150)
 
-- 📚 I'm currently getting my degree in Computer Science (Expected end date: 30/06/2025).
-- 💡 I love learning about new technologies and creating things!
-- 🎶 Outside my academic and professional pursuits I am passionate about electronic music production, playing the piano and drawing.
+- 📚 I'm currently getting my degree in Computer Science (Expected end date: 30/06/2025)
+- 💡 I love learning about new technologies and creating things
+- 🎶 Outside my academic and professional pursuits I am passionate about playing the piano, drawing and photography
 - 💬 Curious? Ask away!
 
 ### 🚀 Professional interests and goals include (but are not limited to):
-- 🛠️ Backend development and Cloud Engineering
+- 🛠️ Backend development & Cloud Engineering
 - 🤖 Machine Learning & Data Engineering
 - 🧪 Using software engineering best practices
 - 💬 Writing clean code
