@@ -7,7 +7,7 @@
 
 ### 🚀 Professional interests and goals include (but are not limited to):
 - 🛠️ Backend development & cloud engineering
-- 🤖 Machine learning & AI
+- 🤖 ML, AI & data engineering
 - 🧪 Using software engineering best practices
 - 💬 Writing clean code
 - 💼 2024 Goals: Learning more about ML and Cloud Computing
