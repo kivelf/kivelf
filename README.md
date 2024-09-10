@@ -7,10 +7,9 @@
 
 ### 🚀 Professional interests and goals include (but are not limited to):
 - 🛠️ Backend development & cloud engineering
-- 🤖 ML, AI & data engineering
 - 🧪 Using software engineering best practices
 - 💬 Writing clean code
-- 💼 2024 Goals: Learning more about ML and Cloud Computing
+- 💼 2024 Goals: Learning more about Cloud Computing and ML
 - 🤝 I’m looking to contribute more to Open Source projects
 
 # 💻 Tech Stack:
@@ -22,9 +21,6 @@
 
 ### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-
-### ML/DL
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 
 ### CI/CD
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
