@@ -39,8 +39,3 @@
 <p align="center">
   ✨ 💫 <i>Take a look at my repositories and let's get in touch!</i>💫✨
 <p align="center">
-
-
-
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
